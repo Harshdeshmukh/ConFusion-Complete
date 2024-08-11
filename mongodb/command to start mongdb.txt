@@ -1,0 +1,1 @@
+mongod --dbpath="D:\Harsh\MERN\Node js\projects\mongodb\data" --bind_ip 127.0.0.1
